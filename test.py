@@ -9,3 +9,5 @@ else:
 
 print("End")
 print('WTF WORLD DUDEEEEEEEEEEEEEEEEEEEEEEEEEE')
+
+print ("Conflict แน่นวลลลลลลลลลลล ai sad")
